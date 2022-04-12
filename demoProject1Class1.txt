@@ -1,0 +1,14 @@
+Give a Class Name 
+
+public class DemoProject1Class1 { // this is class name 
+
+public class main void (String [] args ) {
+
+System.out.println ("We are creating demo class file for git git hub");
+
+}
+
+
+
+
+} // class end here 

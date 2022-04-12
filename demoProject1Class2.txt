@@ -1,0 +1,24 @@
+public class DemoProjectClass2 {
+
+
+public class main void (String [] args ) {
+
+System.out.println("we are learing Java");
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
